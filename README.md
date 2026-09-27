@@ -1,1 +1,1 @@
-Containerized Microservices Deployment using Docker & Kubernetes.
+Containerized Microservices Deployments using Docker & Kubernetes.

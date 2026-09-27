@@ -1,0 +1,9 @@
+/home/kapil/Desktop/DevOps_Projects/FirstK8Project/kubernetes_java_deployment/shopfront/src/main/java/uk/co/danielbryant/djshopping/shopfront/controllers/HomeController.java
+/home/kapil/Desktop/DevOps_Projects/FirstK8Project/kubernetes_java_deployment/shopfront/src/main/java/uk/co/danielbryant/djshopping/shopfront/repo/ProductRepo.java
+/home/kapil/Desktop/DevOps_Projects/FirstK8Project/kubernetes_java_deployment/shopfront/src/main/java/uk/co/danielbryant/djshopping/shopfront/services/ProductService.java
+/home/kapil/Desktop/DevOps_Projects/FirstK8Project/kubernetes_java_deployment/shopfront/src/main/java/uk/co/danielbryant/djshopping/shopfront/model/Product.java
+/home/kapil/Desktop/DevOps_Projects/FirstK8Project/kubernetes_java_deployment/shopfront/src/main/java/uk/co/danielbryant/djshopping/shopfront/resources/ProductResource.java
+/home/kapil/Desktop/DevOps_Projects/FirstK8Project/kubernetes_java_deployment/shopfront/src/main/java/uk/co/danielbryant/djshopping/shopfront/services/dto/StockDTO.java
+/home/kapil/Desktop/DevOps_Projects/FirstK8Project/kubernetes_java_deployment/shopfront/src/main/java/uk/co/danielbryant/djshopping/shopfront/repo/StockRepo.java
+/home/kapil/Desktop/DevOps_Projects/FirstK8Project/kubernetes_java_deployment/shopfront/src/main/java/uk/co/danielbryant/djshopping/shopfront/services/dto/ProductDTO.java
+/home/kapil/Desktop/DevOps_Projects/FirstK8Project/kubernetes_java_deployment/shopfront/src/main/java/uk/co/danielbryant/djshopping/shopfront/ShopfrontApplication.java
